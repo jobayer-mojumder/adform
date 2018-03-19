@@ -1,0 +1,12 @@
+user link:
+	localhost/adform
+	email: jobayer.pro@gmail.com
+	pass: 123456
+
+admin Link:
+	localhost/adform/admin
+	email: jobayer.pro@gmail.com
+	pass: 123456
+
+old form file (demo form using js)
+	directory- form
